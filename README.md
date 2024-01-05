@@ -11,5 +11,5 @@ I'm a dedicated frontend developer student, proficient in HTML, CSS, JavaScript,
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="tailwind" width="35px" height="35px" />  </p>
 
 ## Connect with me
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" />]("https://linkedin.com")          
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35px" height="35px"/>]("https://linkedin.com")          
 
