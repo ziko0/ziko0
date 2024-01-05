@@ -3,5 +3,5 @@ I'm a dedicated frontend developer student, proficient in HTML, CSS, JavaScript,
 ## Languages and tools
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">" alt="js" width="35px" height="35px">          
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />        
 </p>
