@@ -11,6 +11,6 @@ Currently, I'm focused on **learning Go** and building **backend applications** 
 🚀 I’m open to new opportunities and eager to contribute to open-source projects.
 
 📫 How to reach me:  
-- Email: [zviadi.mamardashvili.1@gmail.com]
-//- LinkedIn: [link if you have it]
+- Email: zviadi.mamardashvili.1@gmail.com
+
 
