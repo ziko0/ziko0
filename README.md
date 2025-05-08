@@ -1,6 +1,4 @@
-Hello, I'm a dedicated frontend developer student, proficient in HTML, CSS, JavaScript, and frameworks like React. Currently enrolled in a specialized program, I focus on crafting intuitive user interfaces. Passionate about blending creativity with problem-solving, I'm committed to enhancing user experiences. Always eager to learn and collaborate, I actively engage with the latest web development trends and open-source projects.
-
-## Seeking opportunities to grow, innovate, and make a positive impact in the tech community.
+Hi! I'm Zviad, an aspiring Go developer with a background in frontend development (HTML, CSS, JavaScript, React). I'm currently focused on learning Go and building backend applications. Open to new opportunities and eager to contribute to open-source projects.
 
 ## Languages and tools
 
